@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7869bed-d23d-421f-b9ed-89a12f90763a" name="Changes" comment="回退" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="feat-count1-100" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "assignee": "QuincyGH",
+      "author": "QuincyGH"
+    }
+  ],
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/QuincyGH/idea-settings-test.git",
+    "accountId": "762cf05a-dea6-45a1-857a-bd91b11c5e50"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\Program Files\apache-maven-3.9.9" />
+        <option name="localRepository" value="D:\AppStuData\.m2\repository" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2foJ6K83mvIdb3hpBaTCoApnT7s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Count.executor": "Run",
+    "Application.Count100.executor": "Run",
+    "Application.Count200.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Maven.idea-settings-test [clean].executor": "Run",
+    "Maven.idea-settings-test [compile].executor": "Run",
+    "Maven.idea-settings-test [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
+    "Maven.idea-settings-test [package].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/AppStuData/IdeaProjects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/AppStuData/IdeaProjects/idea-settings-test/src/main/java/org/qgh/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "file.status.colors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.qgh.count" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.qgh.count.Count" />
+      <module name="idea-settings-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.qgh.count.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.qgh.count.Count100" />
+      <module name="idea-settings-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.qgh.count.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count200" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.qgh.count.Count200" />
+      <module name="idea-settings-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.qgh.count.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.qgh.Main" />
+      <module name="idea-settings-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.qgh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Count200" />
+        <item itemvalue="Application.Count100" />
+        <item itemvalue="Application.Count" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Quinc\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7869bed-d23d-421f-b9ed-89a12f90763a" name="Changes" comment="" />
+      <created>1714461322957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714461322957</updated>
+      <workItem from="1714461324564" duration="2039000" />
+      <workItem from="1747708128945" duration="454000" />
+      <workItem from="1747708594530" duration="13755000" />
+    </task>
+    <task id="LOCAL-00001" summary="首次提交项目文件">
+      <option name="closed" value="true" />
+      <created>1747710667015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747710667015</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加打印结束标记">
+      <option name="closed" value="true" />
+      <created>1747713121889</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747713121889</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加计算1-100的和">
+      <option name="closed" value="true" />
+      <created>1747713704120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747713704120</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改Count文件名为Count100">
+      <option name="closed" value="true" />
+      <created>1747713842180</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747713842180</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改打印说明">
+      <option name="closed" value="true" />
+      <created>1747713952299</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747713952299</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加计算1-200的类">
+      <option name="closed" value="true" />
+      <created>1747713972108</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747713972108</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加注释">
+      <option name="closed" value="true" />
+      <created>1747714048100</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747714048100</updated>
+    </task>
+    <task id="LOCAL-00008" summary="添加注释">
+      <option name="closed" value="true" />
+      <created>1747714371593</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747714371593</updated>
+    </task>
+    <task id="LOCAL-00009" summary="添加注释">
+      <option name="closed" value="true" />
+      <created>1747714623878</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747714623878</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改控制台打印输出方法">
+      <option name="closed" value="true" />
+      <created>1747714870285</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747714870285</updated>
+    </task>
+    <task id="LOCAL-00011" summary="修改代码注释">
+      <option name="closed" value="true" />
+      <created>1747715042385</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747715042385</updated>
+    </task>
+    <task id="LOCAL-00012" summary="添加Count300类">
+      <option name="closed" value="true" />
+      <created>1747726120579</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1747726120579</updated>
+    </task>
+    <task id="LOCAL-00013" summary="添加Count400类">
+      <option name="closed" value="true" />
+      <created>1747726286079</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1747726286079</updated>
+    </task>
+    <task id="LOCAL-00014" summary="回退">
+      <option name="closed" value="true" />
+      <created>1747727279109</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1747727279109</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="90d3b5dc-4762-49a6-aa8b-72090f8e8e7c" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="90d3b5dc-4762-49a6-aa8b-72090f8e8e7c">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次提交项目文件" />
+    <MESSAGE value="添加打印结束标记" />
+    <MESSAGE value="添加计算1-100的和" />
+    <MESSAGE value="修改Count文件名为Count100" />
+    <MESSAGE value="修改打印说明" />
+    <MESSAGE value="添加计算1-200的类" />
+    <MESSAGE value="添加注释" />
+    <MESSAGE value="修改控制台打印输出方法" />
+    <MESSAGE value="修改代码注释" />
+    <MESSAGE value="添加Count300类" />
+    <MESSAGE value="添加Count400类" />
+    <MESSAGE value="回退" />
+    <option name="LAST_COMMIT_MESSAGE" value="回退" />
+  </component>
+</project>

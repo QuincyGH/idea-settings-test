@@ -6,6 +6,6 @@ public class Count100 {
         for (int i = 1; i <= 100; i++) {
             sum += i;
         }
-        System.out.println("Sum = " + sum);
+        System.out.println("sum = " + sum);
     }
 }
